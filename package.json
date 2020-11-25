@@ -1,5 +1,5 @@
 {
-  "name": "react-js-starter",
+  "name": "react-ssr-typescript-template",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
