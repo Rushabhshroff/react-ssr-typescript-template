@@ -31,10 +31,8 @@
   },
   "scripts": {
     "start:client": "react-scripts start",
-    "start:server:dev": "node server/index.ts",
-    "start:server:prod": "node dist/index.js",
-    "build:client": "react-scripts build",
-    "build:server": "babel server/index.ts --out-file dist/index.js"
+    "start:server": "node server/index.ts",
+    "build:client": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
